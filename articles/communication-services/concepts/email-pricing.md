@@ -24,7 +24,7 @@ Prices for Azure Communication Services are generally based on a pay-as-you-go m
 
 |Email Send |Data Transferred|
 |------------|------------|
-|0.00025/email   | $0.00012/MB|
+|$0.00025/email   | $0.00012/MB|
 
 ## Pricing example: A user of the Communication Services Virtual Visit Solution sends Appointment Reminders 
 
